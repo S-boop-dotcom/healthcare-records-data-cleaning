@@ -46,23 +46,22 @@ The dataset contains healthcare-related records and includes information used fo
 ```text
 healthcare-records-data-cleaning/
 │
-├── dataset/
-│   ├── healthcare_records_raw.csv
-│   └── healthcare_records_cleaned.csv
-│
 ├── sql/
-│   ├── data_cleaning.sql
-│   └── exploratory_analysis.sql
-│
+│   ├── healthcare_records.sql
+|
+├── dataset/
+│   ├── cleaned_healthcare_data.csv
+│   └── messy_healthcare_data.csv
+|
 └── README.md
 ```
 
 ---
 
 ## Files Included
-- `healthcare_records_raw.csv` — Original dataset
-- `healthcare_records_cleaned.csv` — Cleaned dataset
-- `data_cleaning.sql` — SQL queries used for cleaning
+- `messy_healthcare_data.csv` — Original dataset
+- `cleaned_healthcare_data.csv` — Cleaned dataset
+- `healthcare_records.sql` — SQL queries used for cleaning
 
 ---
 
