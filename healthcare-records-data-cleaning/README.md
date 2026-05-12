@@ -70,7 +70,6 @@ healthcare-records-data-cleaning/
 - Common Table Expressions (CTEs)
 - Window Functions
 - Data Validation
-- Exploratory Data Analysis (EDA)
 - Problem Solving
 
 ---
