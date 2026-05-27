@@ -72,7 +72,4 @@ healthcare-records-data-cleaning/
 - Data Validation
 - Problem Solving
 
----
 
-## Conclusion
-This project demonstra
